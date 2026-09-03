@@ -1,4 +1,4 @@
-#Hi, I'm Khushi Gupta
+# Hi, I'm Khushi Gupta
 
 Welcome to my first github project!
 
@@ -7,10 +7,10 @@ Welcome to my first github project!
 -Learning: Git and Github
 -Locations: Ranchi,Jharkhand
 
-###My first project
+### My first project
 ye project maine github se push krna sekhne ke liye bnaya hai.
 
-###Tech Stack
+### Tech Stack
 -Git
 -Github
 
